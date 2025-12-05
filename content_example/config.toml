@@ -1,13 +1,13 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "ChaozNan Warn"
+description = "PhD student at Shandong University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "December 01, 2025"
 
 [author]
-name = "Jiale Liu"
+name = "Zhaonan Wang"
 title = "PhD Student"
-institution = "University of Example"
+institution = "Shandong University"
 avatar = "/bio.jpg"
 
 [social]
